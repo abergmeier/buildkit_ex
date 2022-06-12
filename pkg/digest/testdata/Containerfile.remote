@@ -1,0 +1,3 @@
+FROM alpine
+
+ADD http://foo.bar/foo.txt .

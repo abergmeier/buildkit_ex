@@ -1,0 +1,7 @@
+FROM alpine
+
+COPY dummy.txt .
+
+FROM debian
+
+COPY aybabtu.txt .
